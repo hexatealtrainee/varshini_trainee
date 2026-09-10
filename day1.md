@@ -1,14 +1,13 @@
 ###Hospital department: Outpatient ward
+
 Patients leaving hospital without treatment because of the long waiting hours for seeing doctors because some are busy with Emergency ward
 
 ##Descriptive question:
 What was the average waiting time of a patient in the OP ward when the Emergency ward patients counts are high?
-
 #Data needed:
 -ER patients registration
 -Outpatient registration
 -Timestamps of entry and exit
-
 
 ##Predictive Question:
 How much loss would the hospital face due to patients leaving without treatment during the ER peak hours?
@@ -16,5 +15,3 @@ How much loss would the hospital face due to patients leaving without treatment 
 -Average revenue in outpatient ward
 -Number of patients leaving because of the high waiting time
 -Maximum waiting time when the patients leaves
-
- 
